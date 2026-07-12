@@ -19,6 +19,7 @@ In this project, I explored a DNA methylation dataset containing genomic feature
 
 * **Dataset:** DNA Methylation Data – Epigenetic Biomarkers
 * **Source:** https://www.kaggle.com/datasets/juanschafle/dna-methylation-data-epigenetic-biomarkers
+* **License:** Open Database License (ODbL) / Database Contents License (DbCL)
 * **Samples:** 1,000
 * **Features:** 4 predictor variables and 1 target variable
 * **Target Variable:** `methylation_status`
